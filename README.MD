@@ -6,4 +6,4 @@ After extracting the answers from the test paper images, we use a string matchin
 
 The result of the project will be an efficient system that recognizes correct answers from test papers and can be integrated into automated grading applications to help teachers and students save time and effort in the grading process.
 
-![sample]("D:\images\image_processing.png")
+![sample](https://github.com/QxNam/Identify-answers-to-multiple-choice-quizzes/blob/master/image_processing.png)
