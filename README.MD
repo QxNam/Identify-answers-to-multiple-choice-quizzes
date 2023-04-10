@@ -5,3 +5,5 @@ To carry out this project, we first need to build a dataset of test paper images
 After extracting the answers from the test paper images, we use a string matching algorithm to compare the extracted answers with the correct answers in the dataset to determine the correct answer for each question.
 
 The result of the project will be an efficient system that recognizes correct answers from test papers and can be integrated into automated grading applications to help teachers and students save time and effort in the grading process.
+
+![sample]("D:\images\image_processing.png")
